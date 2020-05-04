@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-curd-operation",
+  "version": "1.0.0",
+  "description": "basic curd operation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atul7v7/mongodb-curd-operation.git"
+  },
+  "author": "atul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atul7v7/mongodb-curd-operation/issues"
+  },
+  "homepage": "https://github.com/atul7v7/mongodb-curd-operation#readme"
+}
